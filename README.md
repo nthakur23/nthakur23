@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nthakur23
+- 👀 I’m interested in ArcGIS products, remote sensing, and data analysis
